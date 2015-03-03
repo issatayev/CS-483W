@@ -1,6 +1,9 @@
+# A class for getting data from LinkedIn profile using linkedin api and python-linkedin library
+# This is where Linkedin developer credentials are set up to use the API
 from linkedin import linkedin
 
 class linkedinApi:
+    # Setting up credentials, should read from a file or authenticate from web in the future
     CONSUMER_KEY = '77il23ybk7gobx' 
     CONSUMER_SECRET = 'fFnsP7fCRhwV8Nst'
     USER_TOKEN = '35ab1da7-4bc7-4ff8-91bf-c21f0acfa010'
