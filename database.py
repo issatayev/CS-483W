@@ -22,14 +22,14 @@ class Database:
 
     def getCustomerById(self, custID):
         try:
-            return self._connection[self._dbName][self._collection].find_one({"custID": custID})
+            return self._connection[self._dbName][self._collection].find_one({'id': custID})
         except pymongo.errors.OperationFailure, e:
             print "Database getCustomer operation failed: %s" % e
 
-    def updateCustomer(self, **newData):
+    def updateCustomer(self, newData):
         try:
             self._connection[self._dbName][self._collection].update(
-                {"custID": newData.get('custID')},
+                {"id": newData.get('id')},
                 newData,
                 upsert=False #if no such document is found, don't create a new document
             )
@@ -44,7 +44,7 @@ class Database:
             print i
         '''
 
-    def insertCustomer(self, **data):
+    def insertCustomer(self, data):
         try:
             collection = self._connection[self._dbName][self._collection]
         except pymongo.errors.OperationFailure, e:
@@ -57,7 +57,7 @@ class Database:
 
         #insert new_customer to the database if no such id exists
         collection.update(
-            {'custID': new_customer.get('custID')},
+            {'id': new_customer.get('id')},
             new_customer,
             upsert=True
         )
