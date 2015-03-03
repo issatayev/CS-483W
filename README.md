@@ -4,7 +4,7 @@ Capital One Capstone Project
 Structure of dictionary object representing a customer (student)
 <p>data from capital one:</p>
 <ul>
-			  <li>id</li>
+			  <li>custID</li>
                           <li>URL</li>
                           <li>lastName</li>
                           <li>firstName</li>
