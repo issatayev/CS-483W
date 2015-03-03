@@ -53,3 +53,7 @@ Structure of dictionary object representing a customer (student)
                            <li>maiden-name</li>
                            <li>headline</li>
 </ul>                       
+<p>Additional fields:</p>
+<ul>
+	<li> Status </li>
+</ul>
