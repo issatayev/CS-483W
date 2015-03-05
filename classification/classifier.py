@@ -46,7 +46,7 @@ class Classifier:
         # Then do a linear combination of these guesses.
 
         
-        try:
+        if dbData is not None:
             # These classifications require checking previous records.
             name_class = self.get_name_classification(person.get('firstName'), dbData.get('firstName'))
             surname_class = self.get_surname_classification(person.get('lastName'), dbData.get('lastName'))
@@ -58,10 +58,19 @@ class Classifier:
             position_class = self.get_position_classification(person.get('positions'), dbData.get('positions'))
             connections_class = self.get_connections_classification(person.get('connections'), dbData.get('connections'))
             headline_class = self.get_headline_classification(person.get('headline'), dbData.get('headline'))
+        else:
+            # These classifications require checking previous records.
+            name_class = self.get_name_classification(person.get('firstName'), None)
+            surname_class = self.get_surname_classification(person.get('lastName'), None)
+            location_class = self.get_location_classification(person.get('location'), None)
 
-        # except dbdata being none here?
-        except TypeError:
-            pass
+            # These classifications work even if it's the first time the customer 
+            # is encountered, although they work better with the DB info.
+            industry_class = self.get_industry_classification(person.get('industry'), None)
+            position_class = self.get_position_classification(person.get('positions'), None)
+            connections_class = self.get_connections_classification(person.get('connections'), None)
+            headline_class = self.get_headline_classification(person.get('headline'), None)
+
 
         # These classifications do not use the database at all.
         dob_class = self.get_dob_classification(person.get('dob'))
