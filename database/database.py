@@ -15,7 +15,7 @@ class Database:
 
         try:
             self._connection = pymongo.MongoClient('localhost', 27017) #host and port
-            self._connection[self._dbName].authenticate(self._dbUserName, self._dbPassword)
+            #self._connection[self._dbName].authenticate(self._dbUserName, self._dbPassword)
         except (pymongo.errors.OperationFailure, pymongo.errors.ConnectionFailure), e:
             print "Could not connect to server: %s" % e
 

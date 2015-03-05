@@ -1,1 +1,3 @@
-mongod --dbpath=./database
+#!/bin/bash
+
+mongod --dbpath=./database --noauth

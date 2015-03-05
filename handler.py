@@ -1,4 +1,4 @@
-from linkedin.linkedindev import *
+from linkedin_api.linkedindev import *
 from capital_one_data.read_data_from_capitalone import *
 from database.database import *
 import classification.classifier as classifier
@@ -43,7 +43,7 @@ for i in range(len(data)):
     # get status
     #status = call clasify with dataList[i] and db_data_list[i] and get some status
 
-    status = clf.classify(person, dbData)
+    status = clf.classify(person, dbData[i])
     #status = 'test3'
     
     # assign status to the customer in the data list
