@@ -1,6 +1,7 @@
 from linkedindev import *
 from read_data_from_capitalone import *
 from database import *
+import classification.classifier as classifier
 # import BenClassifier
 import logging
 
@@ -36,14 +37,15 @@ for person in data:
     # adding to the list of data from DB 
     dbData.append(db_temp)                        
 
-
+clf = classifier.Classifier()
 for i in range(len(data)):
     person = data[i]
 
     # get status
     #status = call clasify with dataList[i] and db_data_list[i] and get some status
-    
-    status = 'test3'
+    logging.info(person)
+    status = clf.classify(person)
+    #status = 'test3'
     
     # assign status to the customer in the data list
     person['status'] = status
