@@ -337,3 +337,366 @@
 03/05/2015 12:48:12 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
 03/05/2015 12:48:12 AM Classifying Diyar Sailaubekov
 03/05/2015 12:48:12 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:03:35 AM Program has started
+03/05/2015 01:03:35 AM Setting up API
+03/05/2015 01:03:35 AM Setting up DB
+03/05/2015 01:03:35 AM Reading file
+03/05/2015 01:03:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:36 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:36 AM Classifying Alibek Utyubaev
+03/05/2015 01:03:36 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:03:48 AM Program has started
+03/05/2015 01:03:48 AM Setting up API
+03/05/2015 01:03:48 AM Setting up DB
+03/05/2015 01:03:48 AM Reading file
+03/05/2015 01:03:48 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:03:49 AM Classifying Alibek Utyubaev
+03/05/2015 01:03:49 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:07:34 AM Program has started
+03/05/2015 01:07:34 AM Setting up API
+03/05/2015 01:07:34 AM Setting up DB
+03/05/2015 01:07:34 AM Reading file
+03/05/2015 01:07:34 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:07:34 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:07:34 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:07:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:07:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:07:35 AM Classifying Alibek Utyubaev
+03/05/2015 01:07:35 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:10:07 AM Program has started
+03/05/2015 01:10:07 AM Setting up API
+03/05/2015 01:10:07 AM Setting up DB
+03/05/2015 01:10:07 AM Reading file
+03/05/2015 01:10:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:10:08 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:10:08 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:10:08 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:10:09 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:10:09 AM Classifying Alibek Utyubaev
+03/05/2015 01:10:09 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:11:06 AM Program has started
+03/05/2015 01:11:06 AM Setting up API
+03/05/2015 01:11:06 AM Setting up DB
+03/05/2015 01:11:06 AM Reading file
+03/05/2015 01:11:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:07 AM Classifying Alibek Utyubaev
+03/05/2015 01:11:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:11:39 AM Program has started
+03/05/2015 01:11:39 AM Setting up API
+03/05/2015 01:11:39 AM Setting up DB
+03/05/2015 01:11:39 AM Reading file
+03/05/2015 01:11:39 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:40 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:40 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:40 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:40 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:11:40 AM Classifying Alibek Utyubaev
+03/05/2015 01:11:40 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:12:06 AM Program has started
+03/05/2015 01:12:06 AM Setting up API
+03/05/2015 01:12:06 AM Setting up DB
+03/05/2015 01:12:06 AM Reading file
+03/05/2015 01:12:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:12:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:12:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:12:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:12:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:12:07 AM Classifying Alibek Utyubaev
+03/05/2015 01:12:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:14:48 AM Program has started
+03/05/2015 01:14:48 AM Setting up API
+03/05/2015 01:14:48 AM Setting up DB
+03/05/2015 01:14:48 AM Reading file
+03/05/2015 01:14:48 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:14:48 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:14:48 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:14:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:14:49 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:14:49 AM Classifying Alibek Utyubaev
+03/05/2015 01:14:49 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:14:49 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:14:49 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:14:49 AM Classifying Yermek Issatayev
+03/05/2015 01:14:49 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:14:49 AM Classifying Ben Lengerich
+03/05/2015 01:14:49 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:14:49 AM Classifying Diyar Sailaubekov
+03/05/2015 01:14:49 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:31:41 AM Program has started
+03/05/2015 01:31:41 AM Setting up API
+03/05/2015 01:31:41 AM Setting up DB
+03/05/2015 01:31:41 AM Reading file
+03/05/2015 01:31:41 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:42 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:42 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:43 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:44 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:44 AM Classifying Alibek Utyubaev
+03/05/2015 01:31:44 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:31:58 AM Program has started
+03/05/2015 01:31:58 AM Setting up API
+03/05/2015 01:31:58 AM Setting up DB
+03/05/2015 01:31:58 AM Reading file
+03/05/2015 01:31:58 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:31:59 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:00 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:00 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:01 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:01 AM Classifying Alibek Utyubaev
+03/05/2015 01:32:01 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:32:18 AM Program has started
+03/05/2015 01:32:18 AM Setting up API
+03/05/2015 01:32:18 AM Setting up DB
+03/05/2015 01:32:18 AM Reading file
+03/05/2015 01:32:18 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:19 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:19 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:20 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:21 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:32:22 AM Classifying Alibek Utyubaev
+03/05/2015 01:32:22 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:32:22 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:32:22 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:32:22 AM Classifying Yermek Issatayev
+03/05/2015 01:32:22 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:32:22 AM Classifying Ben Lengerich
+03/05/2015 01:32:22 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:32:22 AM Classifying Diyar Sailaubekov
+03/05/2015 01:32:22 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:40:24 AM Program has started
+03/05/2015 01:40:24 AM Setting up API
+03/05/2015 01:40:24 AM Setting up DB
+03/05/2015 01:40:24 AM Reading file
+03/05/2015 01:40:24 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:40:24 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:40:24 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:40:24 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:40:25 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:40:25 AM Classifying Alibek Utyubaev
+03/05/2015 01:40:25 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:41:03 AM Program has started
+03/05/2015 01:41:03 AM Setting up API
+03/05/2015 01:41:03 AM Setting up DB
+03/05/2015 01:41:03 AM Reading file
+03/05/2015 01:41:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:41:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:41:04 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:41:04 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:41:04 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:41:04 AM Classifying Alibek Utyubaev
+03/05/2015 01:41:04 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:42:17 AM Program has started
+03/05/2015 01:42:17 AM Setting up API
+03/05/2015 01:42:17 AM Setting up DB
+03/05/2015 01:42:17 AM Reading file
+03/05/2015 01:42:17 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:17 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:17 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:18 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:18 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:18 AM Classifying Alibek Utyubaev
+03/05/2015 01:42:18 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:42:35 AM Program has started
+03/05/2015 01:42:35 AM Setting up API
+03/05/2015 01:42:35 AM Setting up DB
+03/05/2015 01:42:35 AM Reading file
+03/05/2015 01:42:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:35 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:36 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:36 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:36 AM Classifying Alibek Utyubaev
+03/05/2015 01:42:36 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:42:53 AM Program has started
+03/05/2015 01:42:53 AM Setting up API
+03/05/2015 01:42:53 AM Setting up DB
+03/05/2015 01:42:53 AM Reading file
+03/05/2015 01:42:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:54 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:54 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:54 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:42:54 AM Classifying Alibek Utyubaev
+03/05/2015 01:42:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:43:03 AM Program has started
+03/05/2015 01:43:03 AM Setting up API
+03/05/2015 01:43:03 AM Setting up DB
+03/05/2015 01:43:03 AM Reading file
+03/05/2015 01:43:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:03 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:04 AM Classifying Alibek Utyubaev
+03/05/2015 01:43:04 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:43:04 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:43:04 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:43:04 AM Classifying Yermek Issatayev
+03/05/2015 01:43:04 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:43:04 AM Classifying Ben Lengerich
+03/05/2015 01:43:04 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:43:04 AM Classifying Diyar Sailaubekov
+03/05/2015 01:43:04 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:43:12 AM Program has started
+03/05/2015 01:43:12 AM Setting up API
+03/05/2015 01:43:12 AM Setting up DB
+03/05/2015 01:43:12 AM Reading file
+03/05/2015 01:43:12 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:12 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:13 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:13 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:13 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:43:13 AM Classifying Alibek Utyubaev
+03/05/2015 01:43:13 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:43:13 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:43:13 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:43:13 AM Classifying Yermek Issatayev
+03/05/2015 01:43:13 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:43:13 AM Classifying Ben Lengerich
+03/05/2015 01:43:13 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:43:13 AM Classifying Diyar Sailaubekov
+03/05/2015 01:43:13 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:45:20 AM Program has started
+03/05/2015 01:45:20 AM Setting up API
+03/05/2015 01:45:20 AM Setting up DB
+03/05/2015 01:45:20 AM Reading file
+03/05/2015 01:45:20 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:20 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:21 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:21 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:21 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:21 AM Classifying Alibek Utyubaev
+03/05/2015 01:45:21 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:45:21 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:45:21 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:45:21 AM Classifying Yermek Issatayev
+03/05/2015 01:45:21 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:45:21 AM Classifying Ben Lengerich
+03/05/2015 01:45:21 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:45:21 AM Classifying Diyar Sailaubekov
+03/05/2015 01:45:21 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:45:52 AM Program has started
+03/05/2015 01:45:52 AM Setting up API
+03/05/2015 01:45:52 AM Setting up DB
+03/05/2015 01:45:52 AM Reading file
+03/05/2015 01:45:52 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:52 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:52 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:45:54 AM Classifying Alibek Utyubaev
+03/05/2015 01:45:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:45:54 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:45:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:45:54 AM Classifying Yermek Issatayev
+03/05/2015 01:45:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:45:54 AM Classifying Ben Lengerich
+03/05/2015 01:45:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:45:54 AM Classifying Diyar Sailaubekov
+03/05/2015 01:45:54 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:46:32 AM Program has started
+03/05/2015 01:46:32 AM Setting up API
+03/05/2015 01:46:32 AM Setting up DB
+03/05/2015 01:46:32 AM Reading file
+03/05/2015 01:46:32 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:32 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:32 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:33 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:33 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:33 AM Classifying Alibek Utyubaev
+03/05/2015 01:46:33 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:46:33 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:46:33 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:46:33 AM Classifying Yermek Issatayev
+03/05/2015 01:46:33 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:46:33 AM Classifying Ben Lengerich
+03/05/2015 01:46:33 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:46:33 AM Classifying Diyar Sailaubekov
+03/05/2015 01:46:33 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:46:53 AM Program has started
+03/05/2015 01:46:53 AM Setting up API
+03/05/2015 01:46:53 AM Setting up DB
+03/05/2015 01:46:53 AM Reading file
+03/05/2015 01:46:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:53 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:54 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:54 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:46:54 AM Classifying Alibek Utyubaev
+03/05/2015 01:46:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:46:54 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:46:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:46:54 AM Classifying Yermek Issatayev
+03/05/2015 01:46:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:46:54 AM Classifying Ben Lengerich
+03/05/2015 01:46:54 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:46:54 AM Classifying Diyar Sailaubekov
+03/05/2015 01:46:54 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:47:45 AM Program has started
+03/05/2015 01:47:45 AM Setting up API
+03/05/2015 01:47:45 AM Setting up DB
+03/05/2015 01:47:45 AM Reading file
+03/05/2015 01:47:45 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:47:46 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:47:46 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:47:46 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:47:47 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:47:47 AM Classifying Alibek Utyubaev
+03/05/2015 01:47:47 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:47:47 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:47:47 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:47:47 AM Classifying Yermek Issatayev
+03/05/2015 01:47:47 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:47:47 AM Classifying Ben Lengerich
+03/05/2015 01:47:47 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:47:47 AM Classifying Diyar Sailaubekov
+03/05/2015 01:47:47 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:48:05 AM Program has started
+03/05/2015 01:48:05 AM Setting up API
+03/05/2015 01:48:05 AM Setting up DB
+03/05/2015 01:48:05 AM Reading file
+03/05/2015 01:48:05 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:05 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:06 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:07 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:07 AM Classifying Alibek Utyubaev
+03/05/2015 01:48:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:48:07 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:48:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:48:07 AM Classifying Yermek Issatayev
+03/05/2015 01:48:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:48:07 AM Classifying Ben Lengerich
+03/05/2015 01:48:07 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:48:07 AM Classifying Diyar Sailaubekov
+03/05/2015 01:48:07 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
+03/05/2015 01:48:16 AM Program has started
+03/05/2015 01:48:16 AM Setting up API
+03/05/2015 01:48:16 AM Setting up DB
+03/05/2015 01:48:16 AM Reading file
+03/05/2015 01:48:16 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:16 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:16 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:16 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:17 AM Starting new HTTPS connection (1): api.linkedin.com
+03/05/2015 01:48:17 AM Classifying Alibek Utyubaev
+03/05/2015 01:48:17 AM {u'positions': {u'_total': 0}, 'firstName': 'Alibek', 'URL': 'https://www.linkedin.com/pub/alibek-utyubayev/21/27/744', 'lastName': 'Utyubaev', u'industry': u'Computer Software', 'dob': '05/04/1991', u'pictureUrl': u'https://media.licdn.com/mpr/mprx/0_xrBNYrnGDrG_OYbTjBcwYPcCDKnSyjbTjc_IYtQt-PCg_MK319bZr--yi49t0VQSY1vElzZP9nvN', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Development Intern at Microsoft', 'id': '0123456789'}
+03/05/2015 01:48:17 AM Classifying Nurzhan Zhambyl
+03/05/2015 01:48:17 AM {u'positions': {u'_total': 0}, 'firstName': 'Nurzhan', 'URL': 'https://www.linkedin.com/in/nurzhanzhambyl', 'lastName': 'Zhambyl', u'industry': u'Computer Software', 'dob': '01/08/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Student at The Pennsylvania State University', 'id': '9876543210'}
+03/05/2015 01:48:17 AM Classifying Yermek Issatayev
+03/05/2015 01:48:17 AM {u'positions': {u'_total': 0}, 'firstName': 'Yermek', 'URL': 'https://www.linkedin.com/pub/yermek-issatayev/61/927/800', 'lastName': 'Issatayev', u'industry': u'Computer Software', 'dob': '12/23/1991', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Learning Assistant at The Pennsylvania State University', 'id': '5678901234'}
+03/05/2015 01:48:17 AM Classifying Ben Lengerich
+03/05/2015 01:48:17 AM {u'positions': {u'_total': 0}, 'firstName': 'Ben', 'URL': 'https://www.linkedin.com/in/benlengerich', 'lastName': 'Lengerich', u'industry': u'Computer Software', 'dob': '01/01/1993', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'Software Engineering Intern at Google', 'id': '4444455555'}
+03/05/2015 01:48:17 AM Classifying Diyar Sailaubekov
+03/05/2015 01:48:17 AM {u'positions': {u'_total': 1, u'values': [{u'startDate': {u'year': 2014, u'month': 2}, u'company': {u'name': u'AltynSu'}, u'id': 640615085, u'isCurrent': True, u'title': u'developer'}]}, 'firstName': 'Diyar', 'URL': 'https://www.linkedin.com/pub/diyar-sailaubekov/a3/9b6/126', 'lastName': 'Sailaubekov', u'industry': u'Computer Networking', 'dob': '11/27/1992', u'location': {u'country': {u'code': u'us'}, u'name': u'State College, Pennsylvania Area'}, u'headline': u'developer at AltynSu', 'id': '1111199999'}
