@@ -1,8 +1,7 @@
-from linkedindev import *
-from read_data_from_capitalone import *
-from database import *
+from linkedin.linkedindev import *
+from capital_one_data.read_data_from_capitalone import *
+from database.database import *
 import classification.classifier as classifier
-# import BenClassifier
 import logging
 
 logging.basicConfig(filename='handler.log', level=logging.INFO, format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
@@ -20,7 +19,7 @@ db = Database('mydb','customers','superAdm','123')
 logging.info('Reading file')
 
 # reading data from Capital One file into a list of dictionaries, will store new data
-data = read_capitalone_data('customer_info_capital_one.txt') 
+data = read_capitalone_data('capital_one_data/customer_info_capital_one.txt') 
 
 # initializing a list of dictionaries for info from DB, stores old data
 dbData = []                                                
@@ -43,8 +42,8 @@ for i in range(len(data)):
 
     # get status
     #status = call clasify with dataList[i] and db_data_list[i] and get some status
-    logging.info(person)
-    status = clf.classify(person)
+
+    status = clf.classify(person, dbData)
     #status = 'test3'
     
     # assign status to the customer in the data list
