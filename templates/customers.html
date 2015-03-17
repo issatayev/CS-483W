@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <title>List</title>
+    </head>
+    <body>
+        <div id="container">
+            <div class="title">
+                <h1>List of customers</h1>
+            </div>
+	    {%for name in names%}
+	    <li>{{name['firstName']|e}} with id: {{ name['id']|e}} and status : {{name['status']|e}} </li>
+	    {%endfor%}
+        </div>
+    </body>
+</html>

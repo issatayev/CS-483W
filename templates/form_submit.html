@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>Handle POST requests with Flask</title>
+    </head>
+    <body>
+        <div id="container">
+            <div class="title">
+                <h1>POST request with Flask</h1>
+            </div>
+            <div id="content">
+                <form method="post" action="{{ url_for('process') }}">
+                  <label for="name">Please enter name:</label>
+                  <input type="text" name="name" /><br />
+                  <label for="id">Please enter id:</label>
+                  <input type="text" name="id" /><br />
+                  <input type="submit" />
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
