@@ -25,6 +25,11 @@ class Database:
             return self._connection[self._dbName][self._collection].find_one({'id': custID})
         except pymongo.errors.OperationFailure, e:
             print "Database getCustomer operation failed: %s" % e
+    def getAllCustomers(self):
+        try:
+            return self._connection[self._dbName][self._collection].find()
+        except pymongo.errors.OperationFailure, e:
+            print "Database getAllCustomers operation failed: %s" % e
 
     def updateCustomer(self, newData):
         try:
