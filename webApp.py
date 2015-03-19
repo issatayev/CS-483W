@@ -35,7 +35,7 @@ def process():
     else:
         db.updateCustomer(person)
 
-    return redirect(url_for('list')
+    return redirect(url_for('list'))
 
 if __name__ == '__main__':
     app.run()
