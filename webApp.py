@@ -1,6 +1,8 @@
 # TO DO: add try-catch and check for missing import, for example.
 
 from flask import Flask
+from flask import url_for
+from flask import redirect
 from flask import render_template
 from database.database import *
 from flask import request
@@ -29,7 +31,7 @@ def process():
         return 'One of the fields in the form was missing'
 
     person = {'id':ID, 'firstName':firstName,'lastName':lastName,'url':url,'status':''}
-    
+   
     if db.getCustomerById(ID) == None:
         db.insertCustomer(person)
     else:
