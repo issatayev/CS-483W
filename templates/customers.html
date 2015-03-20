@@ -1,9 +1,10 @@
 <html>
     <head>
-        <title>List</title>
+        <title>Customers Data Management Page</title>
     </head>
     <body>
             <div id="content">
+		<h3>Use this form to add new customers</h3>
                 <form method="post" action="{{ url_for('process') }}">
                   <label for="firstName">Please enter first name:_____________________</label>
                   <input type="text" name="firstName" /><br />
@@ -15,7 +16,7 @@
                   <input type="text" name="url" /><br />
                   <label for="dob">      Please enter date of birth in format mm/dd/yyyy:</label>
                   <input type="text" name="dob" /><br />
-                  <input type="submit" />
+                  <input type="submit" value ="Add" />
                 </form>
             </div>
         <div id="container">
@@ -23,7 +24,11 @@
                 <h1>List of customers</h1>
             </div>
             {%for name in names%}
-            <li>{{name['firstName']|e}} with id: {{ name['id']|e}} and status : {{name['status']|e}} </li>
+            <li><a href={{name['URL']}}>{{name['firstName']|e}}</a> with id: {{ name['id']|e}} and status : {{name['status']|e}} 
+		{% if name['lastStatusChange'] is defined %}
+		, last status change on {{name['lastStatusChange']}}	
+		{% endif %}
+	    </li>
             {%endfor%}
 	    <div id = 'update'>
 		    <form method ="post" action = "{{url_for('update')}}">

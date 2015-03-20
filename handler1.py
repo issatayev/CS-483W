@@ -1,4 +1,5 @@
 from linkedin_api.linkedindev import *
+import time
 from capital_one_data.read_data_from_capitalone import *
 from database.database import *
 import classification.classifier as classifier
@@ -33,7 +34,7 @@ def updateData(db):
 
             # get status
             #status = call clasify with dataList[i] and db_data_list[i] and get some status
-            if(person['status']) == None:
+            if person['status'] == None:
                 status = clf.classify(newPerson)
             else:
                 status = clf.classify(newPerson, person)
@@ -43,12 +44,15 @@ def updateData(db):
             # assign status to the customer in the data list
             newPerson['status'] = status
         
-            # update or insert customer in db (status and any changes from linkedin)
-            db.updateCustomer(newPerson)
             # check if status has changed
             # trigger alert on any change for now, later only on specific changes
             if person['status'] != newPerson['status']:
                 print "Alert for " + person['firstName'] + ": changed to " + str(newPerson['status']) + " from " + str(person['status'])
+		newPerson['lastStatusChange'] = time.asctime(time.localtime(time.time())) 
+            
+	    # update or insert customer in db (status and any changes from linkedin)
+            db.updateCustomer(newPerson)
+
     except Exception as inst:
         print '{}:{}'.format(type(inst), inst) 
 

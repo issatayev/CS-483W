@@ -30,12 +30,16 @@ def process():
     if firstName == '' or lastName == '' or ID == '' or url == '' or dob == '':
         return 'One of the fields in the form was missing'
 
-    person = {'id':ID, 'firstName':firstName,'lastName':lastName,'URL':url,'status':None, 'dob':dob}
+    person = {'id':ID, 'firstName':firstName,'lastName':lastName,'URL':url, 'dob':dob}
    
-    if db.getCustomerById(ID) == None:
+    oldPerson = db.getCustomerById(ID)
+
+    if oldPerson == None:
+	person['status'] = None
         db.insertCustomer(person)
     else:
-        db.updateCustomer(person)
+	oldPerson.update(person)
+        db.updateCustomer(oldPerson)
 
     return redirect(url_for('list'))
 
