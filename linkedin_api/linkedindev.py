@@ -4,10 +4,10 @@ from linkedin import linkedin
 
 class linkedinApi:
     # Setting up credentials, should read from a file or authenticate from web in the future
-    CONSUMER_KEY = '77il23ybk7gobx' 
-    CONSUMER_SECRET = 'fFnsP7fCRhwV8Nst'
-    USER_TOKEN = '35ab1da7-4bc7-4ff8-91bf-c21f0acfa010'
-    USER_SECRET = '8b461c18-eadb-4f49-9135-76053bb03446'
+    CONSUMER_KEY = '77x34huvh2z8vr' 
+    CONSUMER_SECRET = 'GhmHnUBy1E7fCBlp'
+    USER_TOKEN = 'd245c71e-3494-4142-9eb9-8d8d7714c77e'
+    USER_SECRET = 'da4a210e-3dde-4b86-808f-13ba51b07b62'
     RETURN_URL = 'http://localhost:8000'
     
     # initialize an instance

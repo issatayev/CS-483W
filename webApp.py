@@ -1,5 +1,6 @@
 # TO DO: add try-catch and check for missing import, for example.
 
+from handler1 import updateData
 from flask import Flask
 from flask import url_for
 from flask import redirect
@@ -14,7 +15,7 @@ db = Database('mydb','customers','superAdm','123')
 @app.route('/')
 def list():
     names = db.getAllCustomers()
-
+    print names
     return render_template('customers.html', names = names)
 
 # Define a route for the action of the form, for example '/hello/'
@@ -26,16 +27,24 @@ def process():
     lastName = request.form['lastName']
     ID = request.form['id']
     url = request.form['url']
-
-    if firstName == '' or lastName == '' or ID == '' or url == '':
+    dob = request.form['dob']
+    if firstName == '' or lastName == '' or ID == '' or url == '' or dob == '':
         return 'One of the fields in the form was missing'
 
-    person = {'id':ID, 'firstName':firstName,'lastName':lastName,'url':url,'status':''}
+    person = {'id':ID, 'firstName':firstName,'lastName':lastName,'URL':url,'status':None, 'dob':dob}
    
     if db.getCustomerById(ID) == None:
         db.insertCustomer(person)
     else:
         db.updateCustomer(person)
+
+    return redirect(url_for('list'))
+
+@app.route('/update/', methods=['POST'])
+def update():
+    if request.method == 'POST':
+                if request.form['update'] == 'Update Data':
+                    updateData(db)
 
     return redirect(url_for('list'))
 

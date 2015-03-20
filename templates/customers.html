@@ -5,14 +5,16 @@
     <body>
             <div id="content">
                 <form method="post" action="{{ url_for('process') }}">
-                  <label for="firstName">Please enter first name:</label>
+                  <label for="firstName">Please enter first name:_____________________</label>
                   <input type="text" name="firstName" /><br />
-                  <label for="lastName">Please enter last name:</label>
+                  <label for="lastName"> Please enter last name:_____________________</label>
                   <input type="text" name="lastName" /><br />
-                  <label for="id">Please enter id:</label>
+                  <label for="id">       Please enter id:___________________________</label>
                   <input type="text" name="id" /><br />
-                  <label for="url">Please enter linkedin profile url:</label>
+                  <label for="url">      Please enter linkedin profile url:______________</label>
                   <input type="text" name="url" /><br />
+                  <label for="dob">      Please enter date of birth in format mm/dd/yyyy:</label>
+                  <input type="text" name="dob" /><br />
                   <input type="submit" />
                 </form>
             </div>
@@ -23,6 +25,11 @@
             {%for name in names%}
             <li>{{name['firstName']|e}} with id: {{ name['id']|e}} and status : {{name['status']|e}} </li>
             {%endfor%}
+	    <div id = 'update'>
+		    <form method ="post" action = "{{url_for('update')}}">
+			    <input type="submit" name="update" value="Update Data"/>
+		    </form>
+	    </div>
         </div>
     </body>
 </html>
