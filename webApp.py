@@ -15,7 +15,6 @@ db = Database('mydb','customers','superAdm','123')
 @app.route('/')
 def list():
     names = db.getAllCustomers()
-    print names
     return render_template('customers.html', names = names)
 
 # Define a route for the action of the form, for example '/hello/'
